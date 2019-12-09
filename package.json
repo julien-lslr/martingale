@@ -1,0 +1,10 @@
+{
+  "name": "roulette-martingale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "ramda": "^0.26.1"
+  }
+}
